@@ -29,8 +29,7 @@ Tuples can hold elements of different data types, making them versatile for vari
    - Immutability ensures data integrity.
 
 ## To Create a Empty Tuple:
-```
-python
+``` python
 tuple=()
 ```
 In this chapter, we will delve deeper into these concepts, providing you with a strong foundation for understanding and working with tuples in Python.
