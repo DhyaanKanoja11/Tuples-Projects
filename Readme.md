@@ -14,6 +14,7 @@
 - Practical Applications of Tuples
 - Tuple Errors and Exception Handling
 - **EXERCISES**
+- **Miscellaneous Projects**
 
 
 
